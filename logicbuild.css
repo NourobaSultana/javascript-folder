@@ -1,0 +1,26 @@
+.design-header{
+    background-color: black;
+
+}
+
+.header{
+    color: white;
+}
+.cards{
+    background-color: rgb(186, 180, 180);
+    border: 1px solid rgb(7, 6, 6);;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+}
+.avarter{
+ list-style: none;
+
+}
+
+.movies-reviews{
+    float: left;
+}
+.movies-reviews{
+    margin-left: 0px;
+}
